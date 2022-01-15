@@ -40,27 +40,38 @@ Git Bash here
 1. Importamos las librerias numpy es para datos y pandas para graficos:
 
 import numpy as np
+
 import pandas as pd
 
 2. La data que elegimos fue la de mtcars, al archivo csv lo transformamos a dataframe y seleccionamos los primero 10 valores
 
 db = pd.read_csv('data/mtcars.csv', na_values='Not Provided')
+
 db = db.iloc[0:10]
+
 db
 
 3. Al dataframe lo transformamos a lista y se lo ordena por filas 
 
 lista1 = list(db['model'])
+
 #data frame transformado a lista y ordenado por filas 
+
 lista1
 
 4. Ordenamos en secuencia lógica y ejecutamos los códigos 
 
 lista1[3]
+
 lista1[4]
+
 lista1.append(["gbi6","bio1","ikiam"]) 
+
 len(lista1)
+
 lista1[2:5]
+
 lista1.append(["gbi6","bio1","ikiam"])
+
 lista1[-1][-3]
 
