@@ -1,7 +1,9 @@
 # Datos personales
 
 Nombres y Apellidos: Maria Jose Auquilla Villamagua
+
 Cedula: 1105790867
+
 Fecha de nacimiento: 04 de abril de 1996
 Edad: 25 años
 Ciudad natal: Loja 
