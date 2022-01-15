@@ -1,3 +1,4 @@
+#EJERCICIO 4
 # video: https://youtu.be/lc5akqVw5po
 #1
 cd ~/CSB/unix/sandbox 
