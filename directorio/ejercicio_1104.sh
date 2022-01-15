@@ -1,4 +1,4 @@
-# video: 
+# video: https://youtu.be/LLftTiu7huI
 #1
 cd ~/CSB/unix/sandbox
 
